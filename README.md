@@ -98,8 +98,8 @@ Sinta-se livre para estudar, modificar e compartilhar.
 
 ---
 
-## 💡 Dica
+## 💡 Sobre o desenvolvimento:
 
-> "A diferença entre o sonho e a conquista é a ação. Comece agora." 🚀
+> Sou o típico 'low code', aquele cara que tem ideias de projetos incríveis, mas ainda precisa da IA como copiloto para tirar do papel (pelo menos por enquanto). Calma, estou no caminho e, em breve, vou conquistar o mundo da programação... ou, no mínimo, dominar o React e parar de depender tanto do ChatGPT! 😜🚀 Este é meu primeiro projeto enquanto sigo me aprofundando em alguns cursos e ficando cada vez mais perto de virar um programador full stack... ou algo assim, sei la, to perdido porr* 😂🤣
 
 
