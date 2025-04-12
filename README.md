@@ -1,7 +1,8 @@
-
 # 🎯 Alvo Conquistado - Transformando Metas em Conquistas
 
 <p align="center">
+  <img src="https://i.imgur.com/0qelmnh.png" alt="Logo do Projeto Alvo Conquistado" />
+
   <img src="https://i.imgur.com/Y9OmPAP.png" alt="Preview do Projeto" />
 </p>
 
@@ -12,7 +13,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **XJHOWX** é um portfólio interativo que une design minimalista com animações sutis, foco em performance e uma experiência de usuário altamente otimizada. Inspirado no layout moderno de apps educacionais e em plataformas de cursos, mas com identidade própria.
+O **Projeto - Alvo Conquistado 🎯** é um portfólio interativo que une design minimalista com animações sutis, foco em performance e uma experiência de usuário altamente otimizada. Inspirado no layout moderno de apps educacionais e em plataformas de cursos, mas com identidade própria.
 
 ---
 
