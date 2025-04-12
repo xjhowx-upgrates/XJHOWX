@@ -29,7 +29,10 @@ function App() {
             <FAQ />
           </Suspense>
         </main>
-        <Footer />
+        {/* Aqui foi a correção: */}
+        <Suspense fallback={<div>Carregando Footer...</div>}>
+          <Footer />
+        </Suspense>
         <ScrollToTop />
       </div>
     </ThemeProvider>
