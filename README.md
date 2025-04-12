@@ -100,5 +100,5 @@ Sinta-se livre para estudar, modificar e compartilhar.
 ## 💡 Dica
 
 > "A diferença entre o sonho e a conquista é a ação. Comece agora." 🚀
-```
+
 
